@@ -1,11 +1,18 @@
 Interface design
 
-Fighter Interface
-    Attack
-    Defend
-Mage Interface
-    Cast spell
-    Increase mana
-Ranger Interface
-    Double shot
-    Increase speed
+Heroes Class Interface
+    1. Fighter Interface
+        Attack
+        Defend
+    2. Mage Interface
+        Cast spell
+        Increase mana
+    3. Ranger Interface
+        Double shot
+        Increase speed
+
+Heroes Accessories Interface
+    1. Upgrade
+    2. Equip
+    3. Combine
+    4. Recycle
