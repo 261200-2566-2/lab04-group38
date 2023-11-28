@@ -1,0 +1,40 @@
+RPG Characters Class แบ่งออกเป็น 3 class
+1. Fighter เป็นคลาสที่เน้นพลังชีวิตและป้องกัน มี 2 class ย่อยคือ
+    1.1 Sword man เน้นพลังโจมตี และพลังชีวิต
+        hp = 100
+        mana = 10
+        atk = 30
+        def = 20
+        speed = 20
+    1.2 Tanker เน้นพลังป้องกัน และพลังชีวิต
+        hp = 150
+        mana = 10
+        atk = 10
+        def = 50
+        speed = 10
+2. Mage เป็นคลาสที่เน้นพลังโจมตี โดยใช้มานา มี 2 class ย่อยคือ
+    2.1 Wizard เน้นพลังโจมตี และป้องกัน โดยใช้มานา
+        hp = 50
+        mana = 100
+        atk = 30
+        def = 30
+        speed = 10
+    2.2 Necromancer เน้นพลังโจมตี โดยใช้มานา
+        hp = 50
+        mana = 100
+        atk = 50
+        def = 10
+        speed = 10
+3. Ranger เป็นคลาสที่เน้นพลังโจมตี มี 2 class ย่อยคือ
+    3.1 Gunner เน้นพลังโจมตี
+        hp = 80
+        mana = 10
+        atk = 40
+        def = 10
+        speed = 20
+    3.2 Archer เน้นความเร็วการเคลื่อนที่ และหลังโจมตี
+        hp = 50
+        mana = 10
+        atk = 20
+        def = 10
+        speed = 50

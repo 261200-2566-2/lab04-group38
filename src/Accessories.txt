@@ -1,0 +1,6 @@
+Items ที่จะเพิ่ม stats ของ Heros
+Equipment
+    1. Sword
+    2. Shield
+    3. Armor
+    4. Ring
